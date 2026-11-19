@@ -1,0 +1,213 @@
+#name {
+   width: 1250px;
+   height: 60px;
+   color: white;
+   font-size: 35px;
+   text-shadow: 1px 1px 2px black;
+   font-family: 'Georgia', serif;
+   background-color:rgb(188, 210, 245);
+   border-color:darkblue;
+   padding-left: 20px;
+   border-width: 4px;
+   border-bottom: 4px solid darkblue;
+   border-top: 4px solid darkblue;
+   padding-top: 20px;
+   margin-inline-start: -20px;
+   border-spacing: 40px;
+}
+
+aboutme:hover {
+    background-color:steelblue
+}
+
+resume:hover {
+    background-color:steelblue
+}
+
+researchstatement:hover {
+    background-color:steelblue
+}
+
+linkedin:hover {
+    background-color:steelblue
+}
+
+.navbar {
+    text-align: right;
+    padding: 10px 40px -25px 0;
+}
+
+.top {
+    padding-right: 20px;
+    display: flex;
+    justify-content: right;
+    gap: 10px;
+}
+
+.aboutme, .resume, .researchstatement, .linkedin {
+    background-color: rgb(188, 210, 245);
+    color: rgb(5, 13, 112);
+    font-weight: bold;
+    border: 2px solid darkblue;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Times New Roman', serif;
+    font-size: 17px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.pdf-container {
+    width: 80%;
+    height: 800px;
+    margin: 30px auto;
+}
+
+.pdf-viewer {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+#ResearchStatement {
+   width: 1250px;
+   height: 60px;
+   color: white;
+   font-size: 35px;
+   text-shadow: 1px 1px 2px black;
+   font-family: 'Georgia', serif;
+   background-color: rgb(188, 210, 245);
+   border-color:darkblue;
+   padding-left: 20px;
+   border-width: 4px;
+   border-bottom: 4px solid darkblue;
+   border-top: 4px solid darkblue;
+   padding-top: 20px;
+   margin-inline-start: -20px;
+   border-spacing: 40px;
+}
+
+body {
+    font-family: 'Times New Roman', serif;
+    font-size: 18px;
+    color: darkblue;
+    padding: 20px;
+    max-width: 1250px;
+    margin: 0 auto;
+}
+
+#FuturePlans {
+   width: 1250px;
+   height: 60px;
+   color: white;
+   font-size: 35px;
+   text-shadow: 1px 1px 2px black;
+   font-family: 'Georgia', serif;
+   background-color: rgb(188, 210, 245);
+   border-color:darkblue;
+   padding-left: 20px;
+   border-width: 4px;
+   border-bottom: 4px solid darkblue;
+   border-top: 4px solid darkblue;
+   padding-top: 20px;
+   margin-inline-start: -20px;
+   border-spacing: 40px;
+}
+
+.profile-image2 {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid darkblue;
+    border-radius: 5px;
+    margin-left: 0px;
+}
+
+.quote-section {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    width: 95%;
+    margin: 40px auto;
+}
+
+.quote-text {
+    flex: 1;
+    min-width: 0;
+    text-align: left;
+    font-size: 23px;
+    font-family: Georgia, serif;
+    padding: 20px;
+    border-left: 4px solid steelblue;
+    background-color: #f9f9f9;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.profile-image1 {
+    width: 400px;
+    max-width: 45%;
+    height: auto;
+    border: 2px solid darkblue;
+    border-radius: 5px;
+}
+
+.plans-section {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    width: 95%;
+    margin: 40px auto;
+    margin-right: 57px;
+}
+
+.plans-text {
+    flex: 1;
+    min-width: 0;
+    text-align: left;
+    font-family: 'Times New Roman', serif;
+    font-size: 18px;
+    color: darkblue;
+}
+
+.research-section {
+    display: block;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    width: 95%;
+    margin: 20px auto;
+    margin-right: 57px;
+}
+
+.research-quote {
+    flex: 1;
+    min-width: 0;
+    text-align: center;
+    font-size: 23px;
+    font-family: Georgia, serif;
+    padding: 10px;
+    border-left: 4px solid steelblue;
+    background-color: #f9f9f9;
+}
+
+#Resume {
+   width: 1250px;
+   height: 60px;
+   color: white;
+   font-size: 35px;
+   text-shadow: 1px 1px 2px black;
+   font-family: 'Georgia', serif;
+   background-color:rgb(188, 210, 245);
+   border-color:darkblue;
+   padding-left: 20px;
+   border-width: 4px;
+   border-bottom: 4px solid darkblue;
+   border-top: 4px solid darkblue;
+   padding-top: 20px;
+   margin-inline-start: -20px;
+   border-spacing: 40px;
+}
